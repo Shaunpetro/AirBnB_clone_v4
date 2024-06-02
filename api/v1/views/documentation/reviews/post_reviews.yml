@@ -27,4 +27,3 @@
         description: missing user_id, text, or Invalid JSON
       201:
         description: Successful request
-

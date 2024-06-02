@@ -32,4 +32,3 @@ responses:
              description: name of the amenity
   404:
     description: Place not found
-

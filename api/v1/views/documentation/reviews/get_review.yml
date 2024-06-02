@@ -32,4 +32,3 @@ responses:
            description: uuid of the place
   404:
     description: Place not found
-

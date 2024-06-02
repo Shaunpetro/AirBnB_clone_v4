@@ -17,4 +17,3 @@
         description: State not found
       200:
         description: Request executed successfully
-
